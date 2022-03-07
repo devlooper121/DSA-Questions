@@ -5,7 +5,7 @@ public class Pattern1 {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
         scn.close();
-        // write ur code here
+        // write ur code here   
         for(int i = 0; i < n; i++){
             for(int j = 0; j <= i ; j++){
                 System.out.print("*\t");
